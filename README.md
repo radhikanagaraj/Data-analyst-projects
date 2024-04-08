@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @radhikanagaraj
-- 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning tools and technologies
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-radhikanagaraj/radhikanagaraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The purpose of this project is to analyse user interactions and engagement with the 
+Instagram app using SQL and MYSQL workbench. The goal is to provide valuable insights 
+that can inform decision-making for the product team at Instagram these insights can be 
+used to improve the user experience, develop new features, and optimize marketing 
+campaigns
