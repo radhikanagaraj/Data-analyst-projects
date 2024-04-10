@@ -1,9 +1,7 @@
-my data analyst portfolio! I am a detail-oriented and results-driven data analyst with over 2 years of experience in IT. 
-here i share my projects on data analysis
-
-Skills
-Data Analysis: Proficient in analyzing and interpreting data to extract valuable insights.
-SQL: Experienced in querying and manipulating data using SQL.
-Python: Skilled in using Python for data manipulation, analysis, and visualization.
-Tableau: Proficient in creating interactive and insightful visualizations using Tableau.
-Excel: Advanced proficiency in Excel for data manipulation, analysis, and reporting.
+this is a open ended pythom assessment for a data anlyst role
+The dataset contains Loan data for various borrowers in a loan portfolio
+As part of this assignment, derive the following values
+Calculate the risk labels for all the borrowers. 
+label all customers based on where they are in their tenure
+Segment borrowers based on ticket size
+Give channel spend recommendations
