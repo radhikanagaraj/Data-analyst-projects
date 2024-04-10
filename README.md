@@ -1,4 +1,5 @@
-this is a open ended pythom assessment for a data anlyst role
+this is a open ended python assessment for a data anlyst role
+
 The dataset contains Loan data for various borrowers in a loan portfolio
 As part of this assignment, derive the following values
 Calculate the risk labels for all the borrowers. 
