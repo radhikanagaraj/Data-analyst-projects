@@ -1,6 +1,8 @@
 
 Welcome to my GitHub repository showcasing my expertise in data analysis and visualization! 
 
+please check out the branches for individual projects
+
 I am a detail-oriented and results-driven data analyst with over 2 years of experience in IT. 
 
 
