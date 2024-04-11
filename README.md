@@ -1,7 +1,11 @@
-my data analyst portfolio! I am a detail-oriented and results-driven data analyst with over 2 years of experience in IT. 
-here i share my projects on data analysis
+
+Welcome to my GitHub repository showcasing my expertise in data analysis and visualization! 
+
+I am a detail-oriented and results-driven data analyst with over 2 years of experience in IT. 
+
 
 Skills
+
 Data Analysis: Proficient in analyzing and interpreting data to extract valuable insights.
 SQL: Experienced in querying and manipulating data using SQL.
 Python: Skilled in using Python for data manipulation, analysis, and visualization.
