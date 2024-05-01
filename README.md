@@ -1,15 +1,10 @@
 
-Welcome to my GitHub repository showcasing my expertise in data analysis and visualization! 
+The objective of this project is to understand the relationship between car features, analyze trends about market category etc and how car features affects pricing and profitability and give recommendations to client seeking insights into how a car manufacturer can strategically price its vehicles and develop new products to meet consumer demands effectively.
 
-please check out the branches for individual projects
+steps involved:
 
-I am a detail-oriented and results-driven data analyst with over 2 years of experience in IT. 
+Data cleaning and exploration: cleaning dataset by handling missing values, removing duplicates, and addressing any inconsistencies. Conduct EDA to understand distribution of variables, identify patterns and detect outliers. 
 
+Statistical Analysis: Conduct statistical tests to assess the significance of relationships between variables and MSRP. use measures such as correlation coefficients to quantify relationships and identify significant factors. 
 
-Skills
-
-Data Analysis: Proficient in analyzing and interpreting data to extract valuable insights.
-SQL: Experienced in querying and manipulating data using SQL.
-Python: Skilled in using Python for data manipulation, analysis, and visualization.
-Tableau: Proficient in creating interactive and insightful visualizations using Tableau.
-Excel: Advanced proficiency in Excel for data manipulation, analysis, and reporting.
+Interpretation and Reporting: interpret the findings from EDA and model results to identify factors influencing popularity and MSRP. Provide actionable insights and recommendation to the Car company for making decisions about car features to drive profitability. 
