@@ -21,5 +21,4 @@ Charts and Graphs: Hover over data points to view detailed information and insig
 
 Export Reports: Export visualizations and reports to PDF or Excel for offline analysis and sharing.
 
-Contributing
-We welcome contributions to improve the Call Centre Trend Analysis Dashboard. If you have suggestions or bug fixes, please create a pull request or open an issue.
+If you have suggestions or bug fixes, please create a pull request or open an issue.
