@@ -1,4 +1,5 @@
 This project demonstrates how to perform web scraping using Python's Beautiful Soup library. The script extracts data from a specified webpage and saves it in a structured format (CSV).
+here we are extracting info from url="https://thecleverprogrammer.com/2024/08/01/data-science-guided-projects-with-python/" 
 
 ## Features
 
