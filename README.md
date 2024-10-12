@@ -12,7 +12,7 @@ Data Analysis: Proficient in analyzing and interpreting data to extract valuable
 
 SQL: Experienced in extracting and querying data using SQL.
 
-Python: Skilled in using Python for data manipulation, analysis, and visualization.
+Python: Skilled in using Python for data extraction, data manipulation, analysis, and visualization.
 
 Tableau/PowerBI: Proficient in creating interactive and insightful visualizations using BI tools.
 
