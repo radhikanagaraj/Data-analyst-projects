@@ -1,19 +1,14 @@
+This project demonstrates how to perform web scraping using Python's Beautiful Soup library. The script extracts data from a specified webpage and saves it in a structured format (CSV).
 
-Welcome to my GitHub repository showcasing my expertise in data analysis and visualization! 
+## Features
 
-please check out the branches for individual projects
+- Scrapes data from a webpage using Beautiful Soup.
+- Extracts relevant information such as titles, URLs, and images.
+- Saves the extracted data to a CSV file for easy access and analysis.
 
-I am a detail-oriented and results-driven data analyst with over 2 years of experience in IT. 
+## Requirements
 
-
-Skills
-
-Data Analysis: Proficient in analyzing and interpreting data to extract valuable insights.
-
-SQL: Experienced in extracting and querying data using SQL.
-
-Python: Skilled in using Python for data extraction, data manipulation, analysis, and visualization.
-
-Tableau/PowerBI: Proficient in creating interactive and insightful visualizations using BI tools.
-
-Excel: Advanced proficiency in Excel for data manipulation, analysis, and reporting.
+- Python 3.x
+- Beautiful Soup 4
+- Requests
+- Pandas (optional, for DataFrame usage)
